@@ -1,5 +1,5 @@
 window.onload{
-    funkction dzest(){
-        
+    function mainnit(){
+
     }
 }
